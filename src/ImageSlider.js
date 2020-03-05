@@ -3,7 +3,7 @@
 
 import React from "react"
 
-export default class ImageSlider extends Raect.Component{
+export default class ImageSlider extends React.Component{
   
   constructor(props){
     super(props)
